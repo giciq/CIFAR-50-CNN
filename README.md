@@ -1,6 +1,6 @@
 # CIFAR-100-CNN
-Simple CNN written with TensorFlow for recognizing 50 classes of the Cifar100 dataset. 
-It has 72% of accuracy on a test data and 77% on a training set.
+Simple CNN written with TensorFlow for recognizing 50 classes of images. The classes for recognition are the uneven classes of Cifar100 dataset. 
+Model has achieved 72% of accuracy on a test data and 77% on a training set.
 
 ## Image preparation
 1. Scaling /255.
